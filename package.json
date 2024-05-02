@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "test": "jest",
     "info": "react-native info",
-    "doctor": "react-native dortor"
+    "doctor": "react-native doctor"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -21,6 +21,7 @@
     "i18next": "^23.11.2",
     "react": "18.2.0",
     "react-native": "0.73.6",
+    "react-native-element-dropdown": "^2.10.4",
     "react-native-encrypted-storage": "^4.0.3",
     "react-native-gesture-handler": "^2.16.0",
     "react-native-paper": "^5.12.3",
